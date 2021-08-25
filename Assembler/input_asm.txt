@@ -1,0 +1,5 @@
+syscall
+ret
+std
+mov rax,rbx
+stc
